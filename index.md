@@ -8,3 +8,7 @@ I made 3 different headers in this file. Yay.
 ``` python
 myVar = "Hello, world!"
 ```
+
+- [x] Try GitHub
+- [ ] Finish my lab
+- [ ] Submit my lab
